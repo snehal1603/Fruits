@@ -1,4 +1,3 @@
 # Fruits
 Names
 Apple
-Banana
